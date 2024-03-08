@@ -1,0 +1,21 @@
+
+
+
+SMART NOTICE BOARD USING VOICE CHAT
+
+
+SUBMITTED BY:
+M.Tharuni(20G01A0473)
+T.Ganesh(20G01A04A9)
+M.Hareesh(20G01A0461)
+P.Yogesh(20G01A0484)
+M.Subramanyam(20G01A0468)
+V.Lakshmi Kanth(20G01A04B3
+
+
+
+Abstract:
+                   Notice Boards are a common occurrence in variety of institutions which we come across on a daily basis. In the upcoming days, the notice/ advertisement boards are being managed manually. There is a long process involved in order to put up notices on the notice board. This wastes a lot of resources like paper, printer ink, man power and also brings about loss of time. 
+In this project, we have proposed a system which will enable people to wirelessly transmit notices on a notice board using microcontroller. We can also make the system compatible with more than one wireless technology.
+
+Keywords:(Electronic Notice Board,Voice Commands,Bluetooth Module,Wireless Technology,Android Application.)

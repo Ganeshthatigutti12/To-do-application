@@ -1,0 +1,11 @@
+Scanner sc=new Scanner (System.in);
+System.out.println("enter first value");
+int val1 = sc.nextInt();
+ String first=Integer.toBinaryString(val1);
+System.out.println("enter second value");
+int val2= sc.nextInt();
+ String second=Integer.toBinaryString(val2);
+If(val1&val2){
+System.out.println("both are same");
+} else {
+System.out.println("Not same");
